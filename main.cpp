@@ -11,11 +11,11 @@ int main()
 	"A2,Suzan,Erickson,Erickson_1990@gmailcom,19,50,30,40,NETWORK",
 	"A3,Jack,Napoli,The_lawyer99yahoo.com,19,20,40,33,SOFTWARE",
 	"A4,Erin,Black,Erin.black@comcast.net,22,50,58,40,SECURITY",
-	"001473748,Chance,Crawford,ccra147@wgu.edu,28,7,15,30,SOFTWARE"
+	"001234567,Chance,Crawford,ccads123@wgu.edu,55,7,15,30,SOFTWARE"
 	};
 
 	// required performance assessment information
-	cout << "Scripting and Programming - Applications – C867" << endl;
+	cout << "Scripting and Programming - Applications â€“ C867" << endl;
 	cout << "Programming Language Used: C++" << endl;
 	cout << "Student ID: 001473748" << endl;
 	cout << "Chance Crawford\n \n" << endl;
